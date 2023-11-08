@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  color:rgb(230, 139, 28);
+  font-style: italic;
+  text-align: center;
+}
+input{
+  display:block;
+  margin:auto;
+}
+
